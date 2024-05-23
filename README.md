@@ -35,8 +35,9 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
+<br/>  
 
+<img height="30em" src="https://cdn.discordapp.com/attachments/1154543892423774219/1243041424589717514/portrait_1.png?ex=6650080a&is=664eb68a&hm=9414141f3d702845d7d1d2bf102531b0dd6b2b40c914e2224e40fc72cdf2deb4&" />
 
 <div style="display: inline_block">
 <a href="https://github.com/sabrinacouto">

@@ -38,7 +38,7 @@
 <br/>
 
 
-<div>
+<div style="display: inline_block">
 <a href="https://github.com/sabrinacouto">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinacouto&layout=compact&langs_count=7&theme=highcontrast"/>
 <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinacouto&theme=yellowdark" />

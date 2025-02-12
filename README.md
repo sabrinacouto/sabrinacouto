@@ -1,50 +1,32 @@
-![](https://komarev.com/ghpvc/?username=sabrinacouto&color=006bed)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFCFE9" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E4C98&center=true&vCenter=true&width=435&lines=Hello+%2C+I'm+Sabrina+%F0%9F%92%9C" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
+ 
+Atualmente trabalho com:
+  <br>  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,github,git,java,docker,mongodb,linux" />
+  </a>
+   
+<br> 
+<br> 
 
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando ADS na FIAP.
-
-## Minhas Skills
-
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>  
-
-
-<div style="display: inline_block">
-<a href="https://github.com/sabrinacouto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinacouto&layout=compact&langs_count=7&theme=highcontrast"/>
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinacouto&theme=yellowdark" />
-</div>
-<div>
-<a href="https://www.linkedin.com/in/sabrinacoutolima/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+| <a href="https://github.com/sabrinacouto/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinacouto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sabrina's github stats" /></a> | <a href="https://github.com/sabrinacouto/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinacouto&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ---------- |
+  <br>
+  
+  ### Connect with me:
+  
+  <a href="https://www.linkedin.com/in/sabrinacouto/">
+    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="linkedin-logo" width="35px">
+  </a>
+  
+  <br><br>
+  
+  ![](https://komarev.com/ghpvc/?username=sabrinacouto&label=PROFILE+VIEWS&color=ff69b4)
 </div>

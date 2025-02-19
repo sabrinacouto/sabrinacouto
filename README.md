@@ -7,8 +7,8 @@
   
   <br><br>
  
-Atualmente trabalho com:
-  <br>  <br>
+### Technologies
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,github,git,java,docker,mongodb,linux" />
   </a>

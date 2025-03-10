@@ -22,7 +22,7 @@
   
   ### Connect with me:
   
-  <a href="https://www.linkedin.com/in/sabrinacouto/">
+  <a href="https://www.linkedin.com/in/sabrinacoutolima/">
     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="linkedin-logo" width="35px">
   </a>
   

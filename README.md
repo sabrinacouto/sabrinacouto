@@ -16,20 +16,7 @@
 
 <br>
 
-## 📊 GitHub
-
-<p align="center">
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinacouto&theme=rose_pine"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabrinacouto&theme=rose_pine"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabrinacouto&theme=rose_pine"/>
-</p>
-
 <br>
-
-## 🌸 Vamos nos conectar?
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sabrinacoutolima/">
